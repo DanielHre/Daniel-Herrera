@@ -12,7 +12,7 @@ I am an economist with over seven years of experience in economic and financial 
 - 🎓 **Bachelor's degree in Economics** from Universidad de Lima ("Outstanding" distinction)
 - 📊 **Specialization in Data Science**
 - 🧠 **Interested in** Machine Learning, time series analysis, and data visualization
-- 🎸 **Hobby:** In my free time, I enjoy playing the bass
+- 🎸 **Hobby:** In my free time, I enjoy playing bass
 
 ---
 
