@@ -1,6 +1,6 @@
 # Hello! i'm Daniel Herrera <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## 📊 Economist | 📈 Data Science Enthusiast | 🎸 Bass Player Hobbyist
+## 📊 Economist | 📈 Data Science Enthusiast | 🎸 Bass Player
 
 I am an economist with over seven years of experience in economic and financial consulting. Throughout my career, I have worked on market research, econometric analysis, and financial expertise. Currently, I am focusing on Data Science to apply analytical models and technological tools in business and economic decision-making.
 
