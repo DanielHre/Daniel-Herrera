@@ -1,4 +1,4 @@
-# 💡 About me: Ec. Daniel Herrera
+# Hello! i'm Daniel Herrera 👋
 
 ## 📊 Economist | 📈 Data Science Enthusiast | 🎸 Bass Player Hobbyist
 
