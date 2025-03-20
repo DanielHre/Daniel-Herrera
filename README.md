@@ -1,4 +1,4 @@
-# Hello! i'm Daniel Herrera 👋
+# Hello! i'm Daniel Herrera <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 📊 Economist | 📈 Data Science Enthusiast | 🎸 Bass Player Hobbyist
 
