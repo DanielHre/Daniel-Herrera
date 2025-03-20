@@ -16,12 +16,12 @@ I am an economist with over seven years of experience in economic and financial 
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack & Skills  
 
-- **Programming languages:** Python, R
-- **Analysis tools:** Stata, Eviews, SPSS, Power BI
-- **Project management:** Scrum, Kanban
-- **Languages:** Spanish (native), English (advanced)
+💻 **Programming:** Python 🐍 | R 📊  
+📊 **Data Analysis:** Stata 📈 | Eviews 📉 | SPSS 🔎 | Power BI 📊  
+🚀 **Project Management:** Scrum 🏆 | Kanban 📌  
+🌎 **Languages:** Spanish (Native) 🇪🇸 | English (Advanced) 🇺🇸
 
 ---
 
@@ -31,9 +31,9 @@ Here I will share projects where I apply Data Science to economic, financial pro
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect!  
 
 📎 [LinkedIn: Daniel Herrera Rubio](https://www.linkedin.com/in/daniel-herrera-rubio/)
-
-📧 dherrerarubio@gmail.com
-
+🌐 **[WebPage: ](https://danielhre.github.io/DanielPortfolio/)**
+📩 **Email:**dherrerarubio@gmail.com
+💬 **Let's talk about Data, AI & Economics!**  
